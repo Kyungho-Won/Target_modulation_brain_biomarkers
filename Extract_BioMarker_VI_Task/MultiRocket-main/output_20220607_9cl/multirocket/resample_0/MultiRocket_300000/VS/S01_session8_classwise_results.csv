@@ -1,0 +1,2 @@
+timestamp,itr,classifier,num_features,dataset,train_acc,train_time,test_acc,test_time,generate_kernel_time,apply_kernel_on_train_time,apply_kernel_on_test_time,train_transform_time,test_transform_time,machine,processor,physical_cores,logical_cores,max_freq,min_freq,memory
+2022-06-07 05:18:00,0,MultiRocket_300000,300000,S01,1.0,14.138749100000041,0.2222222222222222,0.2767365999998219,0.33709890000000087,20.170507299999827,3.2461795000003804,0.09192859999984648,0.017836699999861594,DESKTOP-NQQOTLN,"Intel64 Family 6 Model 94 Stepping 3, GenuineIntel",4,8,4001.0,0.0,69.0
