@@ -18,6 +18,11 @@ For pre-processing and display scalp topography, MATLAB based EEGLAB (https://sc
 ./matlabox_sync_with_openViBE % MATLAB scripts within OpenViBE onlien signal processing pieline
 ./Brain_Cognition_Modulation_Task.mlapp
 ```
+#### - Mlapp tabs
+```
+- CONFIG % hyper parameter settings for motor imagery task and play (run) the task
+- TRAIN % train EEG feature using EEG data collected during offline motor imagery task and export classifier weights in *mat format
+```
 
 ### ■ Extract BioMarker VI Task
 
