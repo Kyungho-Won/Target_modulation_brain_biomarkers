@@ -1,5 +1,6 @@
 # **Target Modulation & Brain Biomarkers**
 ### Kyungho Won, Sunghan Lee, Daeun Gwon, Sooyeon Kim
+![alt text](https://github.com/KyunghoWon-GIST/Target_modulation_brain_biomarkers/blob/main/image_readme.png)
 
 ### ■ Stimulation Presentation Task
 ![alt text](https://github.com/KyunghoWon-GIST/Target_modulation_brain_biomarkers/blob/main/Stimulation_presentation_Task/images/image_mlapp.png)
