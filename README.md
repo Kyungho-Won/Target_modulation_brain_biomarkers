@@ -36,5 +36,5 @@ For pre-processing and display scalp topography, MATLAB based EEGLAB (https://sc
 ./MultiRocket-main
 ```
 
-### Acknowledgements
+## Acknowledgements
 This work was supported by the Republic of Korea's MSIT (Ministry of Science and ICT), under the High-Potential Individuals Global Training Program (No. 2021-0-01537) supervised by the IITP (Institute of Information and Communications Technology Planning & Evaluation).
