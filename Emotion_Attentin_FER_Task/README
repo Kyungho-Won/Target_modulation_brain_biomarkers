@@ -1,0 +1,17 @@
+CUDA must be available.
+
+Select class_category: 'head', 'attention' (Default setting is 'head')
+
+No feature concatenation network:
+python train.py --class_category head
+python train.py --class_category attention
+
+
+Feature concatenation network:
+python train.py --class_category head --ensemble
+python train.py --class_category attention --ensemble
+
+If you want to use random_split, just add random_split argument.
+example) python train.py --class_category head --random_split
+
+Model would be saved at ./checkpoint/

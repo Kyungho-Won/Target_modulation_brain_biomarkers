@@ -1,0 +1,8 @@
+train_set: 28526, val_set: 988
+(train)===> Epoch[1/700]): Loss: 0.4030077231064271 Acc: 24580
+./checkpoint/head_False/model_0.pth saved!
+
+(validation)===> Epoch[1/700]): Acc: 0.6923076923076923
+(validation)===> cor: 684, num: 988
+
+(train)===> Epoch[2/700]): Loss: 0.39017035391893307 Acc: 24600

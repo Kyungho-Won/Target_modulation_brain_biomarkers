@@ -1,0 +1,1051 @@
+train_set: 27000, val_set: 2514
+(train)===> Epoch[1/700]): Loss: 0.4215960043555483 Acc: 22856
+./checkpoint/head_True/model_0.pth saved!
+
+(validation)===> Epoch[1/700]): Acc: 0.8607796340493238
+(validation)===> cor: 2164, num: 2514
+
+(train)===> Epoch[2/700]): Loss: 0.37045936743040864 Acc: 23315
+(train)===> Epoch[3/700]): Loss: 0.3361212248402934 Acc: 23695
+(train)===> Epoch[4/700]): Loss: 0.3196487558072084 Acc: 23823
+(train)===> Epoch[5/700]): Loss: 0.3091804497032439 Acc: 23900
+(train)===> Epoch[6/700]): Loss: 0.3039227216515574 Acc: 23942
+(train)===> Epoch[7/700]): Loss: 0.295025127375777 Acc: 24027
+(train)===> Epoch[8/700]): Loss: 0.28600750700736566 Acc: 24085
+(train)===> Epoch[9/700]): Loss: 0.27784039634069735 Acc: 24157
+(train)===> Epoch[10/700]): Loss: 0.271375159186592 Acc: 24258
+(train)===> Epoch[11/700]): Loss: 0.26251194845539944 Acc: 24383
+./checkpoint/head_True/model_10.pth saved!
+
+(validation)===> Epoch[11/700]): Acc: 0.9041368337311058
+(validation)===> cor: 2273, num: 2514
+
+(train)===> Epoch[12/700]): Loss: 0.26089585368961726 Acc: 24317
+(train)===> Epoch[13/700]): Loss: 0.25720417867646944 Acc: 24405
+(train)===> Epoch[14/700]): Loss: 0.2537995830284443 Acc: 24413
+(train)===> Epoch[15/700]): Loss: 0.24895986773055942 Acc: 24465
+(train)===> Epoch[16/700]): Loss: 0.24494671230503026 Acc: 24559
+(train)===> Epoch[17/700]): Loss: 0.2479425637923058 Acc: 24503
+(train)===> Epoch[18/700]): Loss: 0.23848810776041693 Acc: 24585
+(train)===> Epoch[19/700]): Loss: 0.24128691717592954 Acc: 24564
+(train)===> Epoch[20/700]): Loss: 0.23630397011152082 Acc: 24616
+(train)===> Epoch[21/700]): Loss: 0.23347545680623139 Acc: 24662
+./checkpoint/head_True/model_20.pth saved!
+
+(validation)===> Epoch[21/700]): Acc: 0.9089101034208433
+(validation)===> cor: 2285, num: 2514
+
+(train)===> Epoch[22/700]): Loss: 0.23422850500305573 Acc: 24607
+(train)===> Epoch[23/700]): Loss: 0.23130888789184312 Acc: 24634
+(train)===> Epoch[24/700]): Loss: 0.23336173937326365 Acc: 24615
+(train)===> Epoch[25/700]): Loss: 0.22825956456097746 Acc: 24659
+(train)===> Epoch[26/700]): Loss: 0.22935483248953012 Acc: 24654
+(train)===> Epoch[27/700]): Loss: 0.2239866509962818 Acc: 24721
+(train)===> Epoch[28/700]): Loss: 0.22721830950142935 Acc: 24672
+(train)===> Epoch[29/700]): Loss: 0.22341793917137215 Acc: 24729
+(train)===> Epoch[30/700]): Loss: 0.21776248896914807 Acc: 24793
+(train)===> Epoch[31/700]): Loss: 0.22555301686186988 Acc: 24707
+./checkpoint/head_True/model_30.pth saved!
+
+(validation)===> Epoch[31/700]): Acc: 0.9212410501193318
+(validation)===> cor: 2316, num: 2514
+
+(train)===> Epoch[32/700]): Loss: 0.22190880196748608 Acc: 24706
+(train)===> Epoch[33/700]): Loss: 0.223259958369998 Acc: 24761
+(train)===> Epoch[34/700]): Loss: 0.2177486369063341 Acc: 24792
+(train)===> Epoch[35/700]): Loss: 0.2127947071456568 Acc: 24850
+(train)===> Epoch[36/700]): Loss: 0.21680751905694698 Acc: 24811
+(train)===> Epoch[37/700]): Loss: 0.21434323613547376 Acc: 24816
+(train)===> Epoch[38/700]): Loss: 0.21445726304184523 Acc: 24802
+(train)===> Epoch[39/700]): Loss: 0.2121545501637344 Acc: 24806
+(train)===> Epoch[40/700]): Loss: 0.2084427222768795 Acc: 24923
+(train)===> Epoch[41/700]): Loss: 0.21079382434876706 Acc: 24878
+./checkpoint/head_True/model_40.pth saved!
+
+(validation)===> Epoch[41/700]): Acc: 0.9164677804295943
+(validation)===> cor: 2304, num: 2514
+
+(train)===> Epoch[42/700]): Loss: 0.21351140045567507 Acc: 24832
+(train)===> Epoch[43/700]): Loss: 0.21085547105433528 Acc: 24860
+(train)===> Epoch[44/700]): Loss: 0.20879576987013967 Acc: 24880
+(train)===> Epoch[45/700]): Loss: 0.2061699159850417 Acc: 24926
+(train)===> Epoch[46/700]): Loss: 0.20769702913040503 Acc: 24892
+(train)===> Epoch[47/700]): Loss: 0.20439906970480565 Acc: 24889
+(train)===> Epoch[48/700]): Loss: 0.20416733749971824 Acc: 24936
+(train)===> Epoch[49/700]): Loss: 0.2041261814835522 Acc: 24938
+(train)===> Epoch[50/700]): Loss: 0.20505212358864927 Acc: 24957
+(train)===> Epoch[51/700]): Loss: 0.2028550268139804 Acc: 24915
+./checkpoint/head_True/model_50.pth saved!
+
+(validation)===> Epoch[51/700]): Acc: 0.9176610978520287
+(validation)===> cor: 2307, num: 2514
+
+(train)===> Epoch[52/700]): Loss: 0.20361866695793113 Acc: 24934
+(train)===> Epoch[53/700]): Loss: 0.2013738691594425 Acc: 24955
+(train)===> Epoch[54/700]): Loss: 0.20393227947756393 Acc: 24925
+(train)===> Epoch[55/700]): Loss: 0.19764252446786534 Acc: 24982
+(train)===> Epoch[56/700]): Loss: 0.1964998294703326 Acc: 24975
+(train)===> Epoch[57/700]): Loss: 0.1979001644034284 Acc: 24989
+(train)===> Epoch[58/700]): Loss: 0.19443569846468986 Acc: 25018
+(train)===> Epoch[59/700]): Loss: 0.197133784861505 Acc: 24970
+(train)===> Epoch[60/700]): Loss: 0.19524901138171727 Acc: 24985
+(train)===> Epoch[61/700]): Loss: 0.19540877511056765 Acc: 24980
+./checkpoint/head_True/model_60.pth saved!
+
+(validation)===> Epoch[61/700]): Acc: 0.9236276849642004
+(validation)===> cor: 2322, num: 2514
+
+(train)===> Epoch[62/700]): Loss: 0.19647947201536264 Acc: 24935
+(train)===> Epoch[63/700]): Loss: 0.1917895861500941 Acc: 25060
+(train)===> Epoch[64/700]): Loss: 0.1931630035158857 Acc: 25026
+(train)===> Epoch[65/700]): Loss: 0.18966017681176214 Acc: 25059
+(train)===> Epoch[66/700]): Loss: 0.19307026040525735 Acc: 25008
+(train)===> Epoch[67/700]): Loss: 0.1884876488046522 Acc: 25066
+(train)===> Epoch[68/700]): Loss: 0.1877388029122579 Acc: 25080
+(train)===> Epoch[69/700]): Loss: 0.19139238799127994 Acc: 25041
+(train)===> Epoch[70/700]): Loss: 0.18686865112631446 Acc: 25081
+(train)===> Epoch[71/700]): Loss: 0.18807568575417072 Acc: 25089
+./checkpoint/head_True/model_70.pth saved!
+
+(validation)===> Epoch[71/700]): Acc: 0.9200477326968973
+(validation)===> cor: 2313, num: 2514
+
+(train)===> Epoch[72/700]): Loss: 0.18468456175576473 Acc: 25137
+(train)===> Epoch[73/700]): Loss: 0.18733734209223207 Acc: 25074
+(train)===> Epoch[74/700]): Loss: 0.1833701530413929 Acc: 25125
+(train)===> Epoch[75/700]): Loss: 0.1842623067546344 Acc: 25117
+(train)===> Epoch[76/700]): Loss: 0.18399967223122676 Acc: 25132
+(train)===> Epoch[77/700]): Loss: 0.17929245588190482 Acc: 25149
+(train)===> Epoch[78/700]): Loss: 0.1808684840355946 Acc: 25136
+(train)===> Epoch[79/700]): Loss: 0.17969644664302303 Acc: 25150
+(train)===> Epoch[80/700]): Loss: 0.1846512840649294 Acc: 25089
+(train)===> Epoch[81/700]): Loss: 0.1830694495021164 Acc: 25145
+./checkpoint/head_True/model_80.pth saved!
+
+(validation)===> Epoch[81/700]): Acc: 0.9216388225934765
+(validation)===> cor: 2317, num: 2514
+
+(train)===> Epoch[82/700]): Loss: 0.17916290606250385 Acc: 25169
+(train)===> Epoch[83/700]): Loss: 0.1787703029475134 Acc: 25180
+(train)===> Epoch[84/700]): Loss: 0.1761958661916137 Acc: 25175
+(train)===> Epoch[85/700]): Loss: 0.17769485525344433 Acc: 25179
+(train)===> Epoch[86/700]): Loss: 0.17710836771477442 Acc: 25195
+(train)===> Epoch[87/700]): Loss: 0.17506160234895288 Acc: 25228
+(train)===> Epoch[88/700]): Loss: 0.1776871042958772 Acc: 25170
+(train)===> Epoch[89/700]): Loss: 0.1751276693901936 Acc: 25206
+(train)===> Epoch[90/700]): Loss: 0.17141594675827493 Acc: 25225
+(train)===> Epoch[91/700]): Loss: 0.16792114213498355 Acc: 25317
+./checkpoint/head_True/model_90.pth saved!
+
+(validation)===> Epoch[91/700]): Acc: 0.9276054097056484
+(validation)===> cor: 2332, num: 2514
+
+(train)===> Epoch[92/700]): Loss: 0.17099924218307763 Acc: 25285
+(train)===> Epoch[93/700]): Loss: 0.17440622753846394 Acc: 25212
+(train)===> Epoch[94/700]): Loss: 0.17415367917217434 Acc: 25208
+(train)===> Epoch[95/700]): Loss: 0.1730131305435633 Acc: 25206
+(train)===> Epoch[96/700]): Loss: 0.1713990076509197 Acc: 25236
+(train)===> Epoch[97/700]): Loss: 0.16793459858258653 Acc: 25290
+(train)===> Epoch[98/700]): Loss: 0.16892185954116007 Acc: 25265
+(train)===> Epoch[99/700]): Loss: 0.1690762698066347 Acc: 25261
+(train)===> Epoch[100/700]): Loss: 0.16565318675512664 Acc: 25312
+(train)===> Epoch[101/700]): Loss: 0.16826202992942715 Acc: 25295
+./checkpoint/head_True/model_100.pth saved!
+
+(validation)===> Epoch[101/700]): Acc: 0.9248210023866349
+(validation)===> cor: 2325, num: 2514
+
+(train)===> Epoch[102/700]): Loss: 0.1648078430753706 Acc: 25326
+(train)===> Epoch[103/700]): Loss: 0.16918762466226514 Acc: 25235
+(train)===> Epoch[104/700]): Loss: 0.16599372969033308 Acc: 25281
+(train)===> Epoch[105/700]): Loss: 0.1695752110234914 Acc: 25220
+(train)===> Epoch[106/700]): Loss: 0.16367234208238376 Acc: 25332
+(train)===> Epoch[107/700]): Loss: 0.16341983180962083 Acc: 25328
+(train)===> Epoch[108/700]): Loss: 0.15945315955653616 Acc: 25362
+(train)===> Epoch[109/700]): Loss: 0.1653086712004311 Acc: 25291
+(train)===> Epoch[110/700]): Loss: 0.1631292711651382 Acc: 25325
+(train)===> Epoch[111/700]): Loss: 0.16370932419835255 Acc: 25310
+./checkpoint/head_True/model_110.pth saved!
+
+(validation)===> Epoch[111/700]): Acc: 0.926412092283214
+(validation)===> cor: 2329, num: 2514
+
+(train)===> Epoch[112/700]): Loss: 0.16218687307239993 Acc: 25356
+(train)===> Epoch[113/700]): Loss: 0.1582026380134166 Acc: 25399
+(train)===> Epoch[114/700]): Loss: 0.15911689090084585 Acc: 25369
+(train)===> Epoch[115/700]): Loss: 0.16197576134901437 Acc: 25336
+(train)===> Epoch[116/700]): Loss: 0.16220920146254905 Acc: 25324
+(train)===> Epoch[117/700]): Loss: 0.1561600564583038 Acc: 25399
+(train)===> Epoch[118/700]): Loss: 0.15781490824621117 Acc: 25377
+(train)===> Epoch[119/700]): Loss: 0.1601880161432359 Acc: 25345
+(train)===> Epoch[120/700]): Loss: 0.15462577312901574 Acc: 25387
+(train)===> Epoch[121/700]): Loss: 0.15754482938494357 Acc: 25404
+./checkpoint/head_True/model_120.pth saved!
+
+(validation)===> Epoch[121/700]): Acc: 0.9172633253778838
+(validation)===> cor: 2306, num: 2514
+
+(train)===> Epoch[122/700]): Loss: 0.1524883802812061 Acc: 25420
+(train)===> Epoch[123/700]): Loss: 0.15602505187594704 Acc: 25401
+(train)===> Epoch[124/700]): Loss: 0.15386285241737507 Acc: 25444
+(train)===> Epoch[125/700]): Loss: 0.15191528751490513 Acc: 25424
+(train)===> Epoch[126/700]): Loss: 0.15196511991799877 Acc: 25438
+(train)===> Epoch[127/700]): Loss: 0.15280922551389395 Acc: 25430
+(train)===> Epoch[128/700]): Loss: 0.15166836602706238 Acc: 25457
+(train)===> Epoch[129/700]): Loss: 0.15607429313475624 Acc: 25407
+(train)===> Epoch[130/700]): Loss: 0.15095779540419854 Acc: 25458
+(train)===> Epoch[131/700]): Loss: 0.1497757782774697 Acc: 25449
+./checkpoint/head_True/model_130.pth saved!
+
+(validation)===> Epoch[131/700]): Acc: 0.9260143198090692
+(validation)===> cor: 2328, num: 2514
+
+(train)===> Epoch[132/700]): Loss: 0.15411536698174297 Acc: 25384
+(train)===> Epoch[133/700]): Loss: 0.1460549089340868 Acc: 25478
+(train)===> Epoch[134/700]): Loss: 0.1504882582576145 Acc: 25443
+(train)===> Epoch[135/700]): Loss: 0.14935380819468205 Acc: 25446
+(train)===> Epoch[136/700]): Loss: 0.14786450415318758 Acc: 25486
+(train)===> Epoch[137/700]): Loss: 0.15059645346978637 Acc: 25454
+(train)===> Epoch[138/700]): Loss: 0.14461346393597088 Acc: 25503
+(train)===> Epoch[139/700]): Loss: 0.14956386327177226 Acc: 25456
+(train)===> Epoch[140/700]): Loss: 0.14414846091896227 Acc: 25512
+(train)===> Epoch[141/700]): Loss: 0.14807244251325125 Acc: 25442
+./checkpoint/head_True/model_140.pth saved!
+
+(validation)===> Epoch[141/700]): Acc: 0.9224343675417661
+(validation)===> cor: 2319, num: 2514
+
+(train)===> Epoch[142/700]): Loss: 0.14652808079155352 Acc: 25507
+(train)===> Epoch[143/700]): Loss: 0.14596273955355915 Acc: 25461
+(train)===> Epoch[144/700]): Loss: 0.14500958507000136 Acc: 25517
+(train)===> Epoch[145/700]): Loss: 0.14455986759158607 Acc: 25485
+(train)===> Epoch[146/700]): Loss: 0.14459563595311384 Acc: 25502
+(train)===> Epoch[147/700]): Loss: 0.14400227245766317 Acc: 25519
+(train)===> Epoch[148/700]): Loss: 0.1417544688896726 Acc: 25511
+(train)===> Epoch[149/700]): Loss: 0.1427933429268293 Acc: 25509
+(train)===> Epoch[150/700]): Loss: 0.14590680108111434 Acc: 25464
+(train)===> Epoch[151/700]): Loss: 0.14715272691676004 Acc: 25466
+./checkpoint/head_True/model_150.pth saved!
+
+(validation)===> Epoch[151/700]): Acc: 0.9220365950676214
+(validation)===> cor: 2318, num: 2514
+
+(train)===> Epoch[152/700]): Loss: 0.1421602762474583 Acc: 25523
+(train)===> Epoch[153/700]): Loss: 0.14412796487611446 Acc: 25485
+(train)===> Epoch[154/700]): Loss: 0.14083599647830047 Acc: 25536
+(train)===> Epoch[155/700]): Loss: 0.14029146169894102 Acc: 25520
+(train)===> Epoch[156/700]): Loss: 0.13998378880074214 Acc: 25537
+(train)===> Epoch[157/700]): Loss: 0.14248441819836016 Acc: 25461
+(train)===> Epoch[158/700]): Loss: 0.1381012315280081 Acc: 25583
+(train)===> Epoch[159/700]): Loss: 0.13897962919535936 Acc: 25536
+(train)===> Epoch[160/700]): Loss: 0.13984316319775833 Acc: 25521
+(train)===> Epoch[161/700]): Loss: 0.1386353515371715 Acc: 25557
+./checkpoint/head_True/model_160.pth saved!
+
+(validation)===> Epoch[161/700]): Acc: 0.9200477326968973
+(validation)===> cor: 2313, num: 2514
+
+(train)===> Epoch[162/700]): Loss: 0.13849165994063428 Acc: 25572
+(train)===> Epoch[163/700]): Loss: 0.13682864209960022 Acc: 25551
+(train)===> Epoch[164/700]): Loss: 0.13802204285516012 Acc: 25549
+(train)===> Epoch[165/700]): Loss: 0.13985391994252488 Acc: 25564
+(train)===> Epoch[166/700]): Loss: 0.1372027237348773 Acc: 25549
+(train)===> Epoch[167/700]): Loss: 0.1382113340755398 Acc: 25567
+(train)===> Epoch[168/700]): Loss: 0.1364998655026501 Acc: 25570
+(train)===> Epoch[169/700]): Loss: 0.13284110440706698 Acc: 25604
+(train)===> Epoch[170/700]): Loss: 0.13590144135960483 Acc: 25586
+(train)===> Epoch[171/700]): Loss: 0.1361210880947085 Acc: 25593
+./checkpoint/head_True/model_170.pth saved!
+
+(validation)===> Epoch[171/700]): Acc: 0.9232299124900557
+(validation)===> cor: 2321, num: 2514
+
+(train)===> Epoch[172/700]): Loss: 0.1293633443009189 Acc: 25644
+(train)===> Epoch[173/700]): Loss: 0.1351527337276879 Acc: 25596
+(train)===> Epoch[174/700]): Loss: 0.13169941478663275 Acc: 25621
+(train)===> Epoch[175/700]): Loss: 0.1348839285971504 Acc: 25628
+(train)===> Epoch[176/700]): Loss: 0.1333650630365641 Acc: 25622
+(train)===> Epoch[177/700]): Loss: 0.13139858648552602 Acc: 25622
+(train)===> Epoch[178/700]): Loss: 0.1327317274239737 Acc: 25598
+(train)===> Epoch[179/700]): Loss: 0.13084750578709994 Acc: 25676
+(train)===> Epoch[180/700]): Loss: 0.12795941273719424 Acc: 25667
+(train)===> Epoch[181/700]): Loss: 0.13250037595063374 Acc: 25618
+./checkpoint/head_True/model_180.pth saved!
+
+(validation)===> Epoch[181/700]): Acc: 0.9284009546539379
+(validation)===> cor: 2334, num: 2514
+
+(train)===> Epoch[182/700]): Loss: 0.12954682205978443 Acc: 25644
+(train)===> Epoch[183/700]): Loss: 0.13349780290345536 Acc: 25620
+(train)===> Epoch[184/700]): Loss: 0.13253724801568692 Acc: 25586
+(train)===> Epoch[185/700]): Loss: 0.13422641917762315 Acc: 25590
+(train)===> Epoch[186/700]): Loss: 0.12895081368785993 Acc: 25632
+(train)===> Epoch[187/700]): Loss: 0.12743842461524693 Acc: 25653
+(train)===> Epoch[188/700]): Loss: 0.12932742548102152 Acc: 25641
+(train)===> Epoch[189/700]): Loss: 0.12716505511480247 Acc: 25652
+(train)===> Epoch[190/700]): Loss: 0.13173259913726673 Acc: 25599
+(train)===> Epoch[191/700]): Loss: 0.13018347244187656 Acc: 25640
+./checkpoint/head_True/model_190.pth saved!
+
+(validation)===> Epoch[191/700]): Acc: 0.9252187748607796
+(validation)===> cor: 2326, num: 2514
+
+(train)===> Epoch[192/700]): Loss: 0.12828439985558998 Acc: 25634
+(train)===> Epoch[193/700]): Loss: 0.12761608270083213 Acc: 25672
+(train)===> Epoch[194/700]): Loss: 0.1290806040760669 Acc: 25658
+(train)===> Epoch[195/700]): Loss: 0.12697975344584275 Acc: 25666
+(train)===> Epoch[196/700]): Loss: 0.13233629354406287 Acc: 25593
+(train)===> Epoch[197/700]): Loss: 0.1297675996903782 Acc: 25613
+(train)===> Epoch[198/700]): Loss: 0.12942737994843873 Acc: 25691
+(train)===> Epoch[199/700]): Loss: 0.128423575599481 Acc: 25669
+(train)===> Epoch[200/700]): Loss: 0.12623696781323243 Acc: 25675
+(train)===> Epoch[201/700]): Loss: 0.12503736745787344 Acc: 25688
+./checkpoint/head_True/model_200.pth saved!
+
+(validation)===> Epoch[201/700]): Acc: 0.9228321400159109
+(validation)===> cor: 2320, num: 2514
+
+(train)===> Epoch[202/700]): Loss: 0.12698002757765617 Acc: 25663
+(train)===> Epoch[203/700]): Loss: 0.12811553264103132 Acc: 25638
+(train)===> Epoch[204/700]): Loss: 0.12785997010342717 Acc: 25637
+(train)===> Epoch[205/700]): Loss: 0.12612345554996415 Acc: 25657
+(train)===> Epoch[206/700]): Loss: 0.1247374667275051 Acc: 25688
+(train)===> Epoch[207/700]): Loss: 0.12482701153925783 Acc: 25690
+(train)===> Epoch[208/700]): Loss: 0.12780988807491345 Acc: 25670
+(train)===> Epoch[209/700]): Loss: 0.12559509437062255 Acc: 25685
+(train)===> Epoch[210/700]): Loss: 0.12347378349927142 Acc: 25683
+(train)===> Epoch[211/700]): Loss: 0.12360508931079556 Acc: 25698
+./checkpoint/head_True/model_210.pth saved!
+
+(validation)===> Epoch[211/700]): Acc: 0.9268098647573588
+(validation)===> cor: 2330, num: 2514
+
+(train)===> Epoch[212/700]): Loss: 0.12233097626520158 Acc: 25743
+(train)===> Epoch[213/700]): Loss: 0.12149531510603255 Acc: 25752
+(train)===> Epoch[214/700]): Loss: 0.12364205706537194 Acc: 25686
+(train)===> Epoch[215/700]): Loss: 0.12282514315532107 Acc: 25684
+(train)===> Epoch[216/700]): Loss: 0.12478558862949063 Acc: 25686
+(train)===> Epoch[217/700]): Loss: 0.11917295189676119 Acc: 25784
+(train)===> Epoch[218/700]): Loss: 0.12573635302961855 Acc: 25676
+(train)===> Epoch[219/700]): Loss: 0.12050075738330213 Acc: 25729
+(train)===> Epoch[220/700]): Loss: 0.11889560975470626 Acc: 25749
+(train)===> Epoch[221/700]): Loss: 0.12331202768249498 Acc: 25721
+./checkpoint/head_True/model_220.pth saved!
+
+(validation)===> Epoch[221/700]): Acc: 0.9196499602227526
+(validation)===> cor: 2312, num: 2514
+
+(train)===> Epoch[222/700]): Loss: 0.11897056936474425 Acc: 25762
+(train)===> Epoch[223/700]): Loss: 0.12260321629479201 Acc: 25723
+(train)===> Epoch[224/700]): Loss: 0.11931755948555155 Acc: 25742
+(train)===> Epoch[225/700]): Loss: 0.11860536980816563 Acc: 25766
+(train)===> Epoch[226/700]): Loss: 0.12314280000406887 Acc: 25681
+(train)===> Epoch[227/700]): Loss: 0.12089116983735078 Acc: 25698
+(train)===> Epoch[228/700]): Loss: 0.11535598209787003 Acc: 25777
+(train)===> Epoch[229/700]): Loss: 0.11901783293241412 Acc: 25719
+(train)===> Epoch[230/700]): Loss: 0.12148983883195841 Acc: 25691
+(train)===> Epoch[231/700]): Loss: 0.11846017124321563 Acc: 25762
+./checkpoint/head_True/model_230.pth saved!
+
+(validation)===> Epoch[231/700]): Acc: 0.9232299124900557
+(validation)===> cor: 2321, num: 2514
+
+(train)===> Epoch[232/700]): Loss: 0.12041126806598651 Acc: 25741
+(train)===> Epoch[233/700]): Loss: 0.1216637237161185 Acc: 25710
+(train)===> Epoch[234/700]): Loss: 0.12165018114440522 Acc: 25711
+(train)===> Epoch[235/700]): Loss: 0.11848605173748346 Acc: 25715
+(train)===> Epoch[236/700]): Loss: 0.11776358320105673 Acc: 25755
+(train)===> Epoch[237/700]): Loss: 0.11738627999047618 Acc: 25783
+(train)===> Epoch[238/700]): Loss: 0.11806994462894571 Acc: 25721
+(train)===> Epoch[239/700]): Loss: 0.11757490846755396 Acc: 25736
+(train)===> Epoch[240/700]): Loss: 0.11689721044338797 Acc: 25760
+(train)===> Epoch[241/700]): Loss: 0.11638951240961298 Acc: 25790
+./checkpoint/head_True/model_240.pth saved!
+
+(validation)===> Epoch[241/700]): Acc: 0.9232299124900557
+(validation)===> cor: 2321, num: 2514
+
+(train)===> Epoch[242/700]): Loss: 0.11807253160414403 Acc: 25734
+(train)===> Epoch[243/700]): Loss: 0.11648719998479168 Acc: 25773
+(train)===> Epoch[244/700]): Loss: 0.11542793414655035 Acc: 25778
+(train)===> Epoch[245/700]): Loss: 0.11386484080248663 Acc: 25781
+(train)===> Epoch[246/700]): Loss: 0.11864256285874271 Acc: 25773
+(train)===> Epoch[247/700]): Loss: 0.11707523438610543 Acc: 25752
+(train)===> Epoch[248/700]): Loss: 0.1141961798505446 Acc: 25813
+(train)===> Epoch[249/700]): Loss: 0.1172137013116671 Acc: 25769
+(train)===> Epoch[250/700]): Loss: 0.1131462527620396 Acc: 25822
+(train)===> Epoch[251/700]): Loss: 0.11759565430837125 Acc: 25752
+./checkpoint/head_True/model_250.pth saved!
+
+(validation)===> Epoch[251/700]): Acc: 0.9228321400159109
+(validation)===> cor: 2320, num: 2514
+
+(train)===> Epoch[252/700]): Loss: 0.11681740092569326 Acc: 25786
+(train)===> Epoch[253/700]): Loss: 0.11641063048745427 Acc: 25766
+(train)===> Epoch[254/700]): Loss: 0.11446098311673707 Acc: 25788
+(train)===> Epoch[255/700]): Loss: 0.11336639740741034 Acc: 25795
+(train)===> Epoch[256/700]): Loss: 0.11273745299182002 Acc: 25816
+(train)===> Epoch[257/700]): Loss: 0.11382153647511553 Acc: 25795
+(train)===> Epoch[258/700]): Loss: 0.11063798277189774 Acc: 25847
+(train)===> Epoch[259/700]): Loss: 0.10984788210774966 Acc: 25857
+(train)===> Epoch[260/700]): Loss: 0.11135698969955972 Acc: 25824
+(train)===> Epoch[261/700]): Loss: 0.11253348153942845 Acc: 25822
+./checkpoint/head_True/model_260.pth saved!
+
+(validation)===> Epoch[261/700]): Acc: 0.9236276849642004
+(validation)===> cor: 2322, num: 2514
+
+(train)===> Epoch[262/700]): Loss: 0.11459061898945916 Acc: 25792
+(train)===> Epoch[263/700]): Loss: 0.1152508743815213 Acc: 25750
+(train)===> Epoch[264/700]): Loss: 0.11355821776365294 Acc: 25809
+(train)===> Epoch[265/700]): Loss: 0.11046029453004345 Acc: 25818
+(train)===> Epoch[266/700]): Loss: 0.11225718050540331 Acc: 25836
+(train)===> Epoch[267/700]): Loss: 0.11030279053043303 Acc: 25856
+(train)===> Epoch[268/700]): Loss: 0.11077714022116247 Acc: 25877
+(train)===> Epoch[269/700]): Loss: 0.11170342054678185 Acc: 25814
+(train)===> Epoch[270/700]): Loss: 0.11226787765437378 Acc: 25799
+(train)===> Epoch[271/700]): Loss: 0.11113749805952898 Acc: 25830
+./checkpoint/head_True/model_270.pth saved!
+
+(validation)===> Epoch[271/700]): Acc: 0.9276054097056484
+(validation)===> cor: 2332, num: 2514
+
+(train)===> Epoch[272/700]): Loss: 0.11094063411592876 Acc: 25858
+(train)===> Epoch[273/700]): Loss: 0.11252642456981887 Acc: 25801
+(train)===> Epoch[274/700]): Loss: 0.1117378421694111 Acc: 25828
+(train)===> Epoch[275/700]): Loss: 0.11146149009625446 Acc: 25831
+(train)===> Epoch[276/700]): Loss: 0.11337032643834792 Acc: 25795
+(train)===> Epoch[277/700]): Loss: 0.10981681948248952 Acc: 25836
+(train)===> Epoch[278/700]): Loss: 0.11020021338785628 Acc: 25837
+(train)===> Epoch[279/700]): Loss: 0.1086316286030971 Acc: 25841
+(train)===> Epoch[280/700]): Loss: 0.10944266964608432 Acc: 25864
+(train)===> Epoch[281/700]): Loss: 0.10904086931584286 Acc: 25807
+./checkpoint/head_True/model_280.pth saved!
+
+(validation)===> Epoch[281/700]): Acc: 0.9160700079554495
+(validation)===> cor: 2303, num: 2514
+
+(train)===> Epoch[282/700]): Loss: 0.1057752176561789 Acc: 25868
+(train)===> Epoch[283/700]): Loss: 0.1065243308846075 Acc: 25885
+(train)===> Epoch[284/700]): Loss: 0.10785317797691613 Acc: 25861
+(train)===> Epoch[285/700]): Loss: 0.10892243949683142 Acc: 25862
+(train)===> Epoch[286/700]): Loss: 0.10720508121785807 Acc: 25867
+(train)===> Epoch[287/700]): Loss: 0.10665070243852304 Acc: 25921
+(train)===> Epoch[288/700]): Loss: 0.10800758456355607 Acc: 25857
+(train)===> Epoch[289/700]): Loss: 0.10927465773959616 Acc: 25870
+(train)===> Epoch[290/700]): Loss: 0.1051339330638354 Acc: 25885
+(train)===> Epoch[291/700]): Loss: 0.10923191397550414 Acc: 25836
+./checkpoint/head_True/model_290.pth saved!
+
+(validation)===> Epoch[291/700]): Acc: 0.9220365950676214
+(validation)===> cor: 2318, num: 2514
+
+(train)===> Epoch[292/700]): Loss: 0.10667968505104194 Acc: 25838
+(train)===> Epoch[293/700]): Loss: 0.10760450457397519 Acc: 25844
+(train)===> Epoch[294/700]): Loss: 0.10899662060525955 Acc: 25866
+(train)===> Epoch[295/700]): Loss: 0.10748257782230604 Acc: 25863
+(train)===> Epoch[296/700]): Loss: 0.10681368205740592 Acc: 25844
+(train)===> Epoch[297/700]): Loss: 0.10710003327427885 Acc: 25875
+(train)===> Epoch[298/700]): Loss: 0.10819653593747036 Acc: 25849
+(train)===> Epoch[299/700]): Loss: 0.10806027218929523 Acc: 25874
+(train)===> Epoch[300/700]): Loss: 0.10986498044693123 Acc: 25850
+(train)===> Epoch[301/700]): Loss: 0.10720451379243527 Acc: 25836
+./checkpoint/head_True/model_300.pth saved!
+
+(validation)===> Epoch[301/700]): Acc: 0.9208432776451869
+(validation)===> cor: 2315, num: 2514
+
+(train)===> Epoch[302/700]): Loss: 0.10640631103777543 Acc: 25886
+(train)===> Epoch[303/700]): Loss: 0.10464494953688559 Acc: 25877
+(train)===> Epoch[304/700]): Loss: 0.10180955473112369 Acc: 25901
+(train)===> Epoch[305/700]): Loss: 0.10350547867192227 Acc: 25881
+(train)===> Epoch[306/700]): Loss: 0.10789239808315339 Acc: 25866
+(train)===> Epoch[307/700]): Loss: 0.10422906051710636 Acc: 25930
+(train)===> Epoch[308/700]): Loss: 0.10833936653181814 Acc: 25880
+(train)===> Epoch[309/700]): Loss: 0.10276554501891993 Acc: 25891
+(train)===> Epoch[310/700]): Loss: 0.10517453860863156 Acc: 25895
+(train)===> Epoch[311/700]): Loss: 0.10417321801734221 Acc: 25866
+./checkpoint/head_True/model_310.pth saved!
+
+(validation)===> Epoch[311/700]): Acc: 0.9208432776451869
+(validation)===> cor: 2315, num: 2514
+
+(train)===> Epoch[312/700]): Loss: 0.10194877945683056 Acc: 25915
+(train)===> Epoch[313/700]): Loss: 0.10895670680085864 Acc: 25850
+(train)===> Epoch[314/700]): Loss: 0.10607302274705403 Acc: 25885
+(train)===> Epoch[315/700]): Loss: 0.10556089936483493 Acc: 25887
+(train)===> Epoch[316/700]): Loss: 0.10485396375592074 Acc: 25894
+(train)===> Epoch[317/700]): Loss: 0.10646325119299875 Acc: 25852
+(train)===> Epoch[318/700]): Loss: 0.10252214046836682 Acc: 25910
+(train)===> Epoch[319/700]): Loss: 0.10315068438206748 Acc: 25913
+(train)===> Epoch[320/700]): Loss: 0.10192537275884031 Acc: 25908
+(train)===> Epoch[321/700]): Loss: 0.10279308935968014 Acc: 25915
+./checkpoint/head_True/model_320.pth saved!
+
+(validation)===> Epoch[321/700]): Acc: 0.9128878281622912
+(validation)===> cor: 2295, num: 2514
+
+(train)===> Epoch[322/700]): Loss: 0.10196044271028744 Acc: 25881
+(train)===> Epoch[323/700]): Loss: 0.10400997115976028 Acc: 25871
+(train)===> Epoch[324/700]): Loss: 0.10415221435281127 Acc: 25873
+(train)===> Epoch[325/700]): Loss: 0.10594175124182549 Acc: 25898
+(train)===> Epoch[326/700]): Loss: 0.1054536627623255 Acc: 25881
+(train)===> Epoch[327/700]): Loss: 0.1057465459770941 Acc: 25882
+(train)===> Epoch[328/700]): Loss: 0.10122224996021272 Acc: 25906
+(train)===> Epoch[329/700]): Loss: 0.10624216547381857 Acc: 25870
+(train)===> Epoch[330/700]): Loss: 0.10793251656172823 Acc: 25830
+(train)===> Epoch[331/700]): Loss: 0.10296447729169798 Acc: 25911
+./checkpoint/head_True/model_330.pth saved!
+
+(validation)===> Epoch[331/700]): Acc: 0.9184566428003182
+(validation)===> cor: 2309, num: 2514
+
+(train)===> Epoch[332/700]): Loss: 0.10282680965659177 Acc: 25886
+(train)===> Epoch[333/700]): Loss: 0.10448804984838116 Acc: 25885
+(train)===> Epoch[334/700]): Loss: 0.10034984763879815 Acc: 25944
+(train)===> Epoch[335/700]): Loss: 0.09977036649737338 Acc: 25948
+(train)===> Epoch[336/700]): Loss: 0.10209601300363727 Acc: 25905
+(train)===> Epoch[337/700]): Loss: 0.10247224082201357 Acc: 25913
+(train)===> Epoch[338/700]): Loss: 0.10614377284984419 Acc: 25850
+(train)===> Epoch[339/700]): Loss: 0.10400543611434758 Acc: 25904
+(train)===> Epoch[340/700]): Loss: 0.09984709355192634 Acc: 25921
+(train)===> Epoch[341/700]): Loss: 0.0986062001277672 Acc: 25962
+./checkpoint/head_True/model_340.pth saved!
+
+(validation)===> Epoch[341/700]): Acc: 0.9260143198090692
+(validation)===> cor: 2328, num: 2514
+
+(train)===> Epoch[342/700]): Loss: 0.1006463552977793 Acc: 25938
+(train)===> Epoch[343/700]): Loss: 0.10127281044961578 Acc: 25919
+(train)===> Epoch[344/700]): Loss: 0.1042898906009923 Acc: 25880
+(train)===> Epoch[345/700]): Loss: 0.10148341073975356 Acc: 25894
+(train)===> Epoch[346/700]): Loss: 0.09851760292014293 Acc: 25954
+(train)===> Epoch[347/700]): Loss: 0.0985683504306222 Acc: 25955
+(train)===> Epoch[348/700]): Loss: 0.09852130142551566 Acc: 25948
+(train)===> Epoch[349/700]): Loss: 0.10360035727203178 Acc: 25881
+(train)===> Epoch[350/700]): Loss: 0.10176807214149804 Acc: 25904
+(train)===> Epoch[351/700]): Loss: 0.10049170400779198 Acc: 25924
+./checkpoint/head_True/model_350.pth saved!
+
+(validation)===> Epoch[351/700]): Acc: 0.9220365950676214
+(validation)===> cor: 2318, num: 2514
+
+(train)===> Epoch[352/700]): Loss: 0.10149930248085645 Acc: 25940
+(train)===> Epoch[353/700]): Loss: 0.09653362864960263 Acc: 25959
+(train)===> Epoch[354/700]): Loss: 0.10071232233134562 Acc: 25924
+(train)===> Epoch[355/700]): Loss: 0.10105590372746748 Acc: 25915
+(train)===> Epoch[356/700]): Loss: 0.10049478753941075 Acc: 25917
+(train)===> Epoch[357/700]): Loss: 0.10217220015434496 Acc: 25890
+(train)===> Epoch[358/700]): Loss: 0.10304137428165046 Acc: 25891
+(train)===> Epoch[359/700]): Loss: 0.09853820503200462 Acc: 25968
+(train)===> Epoch[360/700]): Loss: 0.09621056832258106 Acc: 25969
+(train)===> Epoch[361/700]): Loss: 0.10045090967660998 Acc: 25937
+./checkpoint/head_True/model_360.pth saved!
+
+(validation)===> Epoch[361/700]): Acc: 0.9331742243436754
+(validation)===> cor: 2346, num: 2514
+
+(train)===> Epoch[362/700]): Loss: 0.0989274370778273 Acc: 25941
+(train)===> Epoch[363/700]): Loss: 0.09716743334791572 Acc: 25949
+(train)===> Epoch[364/700]): Loss: 0.10057546754507023 Acc: 25918
+(train)===> Epoch[365/700]): Loss: 0.09772475256701829 Acc: 25979
+(train)===> Epoch[366/700]): Loss: 0.09497049861452637 Acc: 25982
+(train)===> Epoch[367/700]): Loss: 0.09737047444223786 Acc: 25973
+(train)===> Epoch[368/700]): Loss: 0.10187866229944438 Acc: 25859
+(train)===> Epoch[369/700]): Loss: 0.09673622755373608 Acc: 25977
+(train)===> Epoch[370/700]): Loss: 0.10046742465391294 Acc: 25904
+(train)===> Epoch[371/700]): Loss: 0.09449021297456107 Acc: 26023
+./checkpoint/head_True/model_370.pth saved!
+
+(validation)===> Epoch[371/700]): Acc: 0.9280031821797932
+(validation)===> cor: 2333, num: 2514
+
+(train)===> Epoch[372/700]): Loss: 0.0954022435582024 Acc: 26001
+(train)===> Epoch[373/700]): Loss: 0.09749126291198926 Acc: 25984
+(train)===> Epoch[374/700]): Loss: 0.09736126793145838 Acc: 25971
+(train)===> Epoch[375/700]): Loss: 0.10022112087848767 Acc: 25927
+(train)===> Epoch[376/700]): Loss: 0.09443033196810731 Acc: 25966
+(train)===> Epoch[377/700]): Loss: 0.09429410893266527 Acc: 25980
+(train)===> Epoch[378/700]): Loss: 0.09962103126521912 Acc: 25912
+(train)===> Epoch[379/700]): Loss: 0.09473419424606545 Acc: 25985
+(train)===> Epoch[380/700]): Loss: 0.09398145035944543 Acc: 26010
+(train)===> Epoch[381/700]): Loss: 0.10014037169613436 Acc: 25922
+./checkpoint/head_True/model_380.pth saved!
+
+(validation)===> Epoch[381/700]): Acc: 0.9232299124900557
+(validation)===> cor: 2321, num: 2514
+
+(train)===> Epoch[382/700]): Loss: 0.09696280953613708 Acc: 25975
+(train)===> Epoch[383/700]): Loss: 0.09695211843080866 Acc: 25963
+(train)===> Epoch[384/700]): Loss: 0.09585295260757769 Acc: 26023
+(train)===> Epoch[385/700]): Loss: 0.09481882145340753 Acc: 25991
+(train)===> Epoch[386/700]): Loss: 0.09246232518771406 Acc: 26016
+(train)===> Epoch[387/700]): Loss: 0.09322335951543474 Acc: 26016
+(train)===> Epoch[388/700]): Loss: 0.09903012788157699 Acc: 25947
+(train)===> Epoch[389/700]): Loss: 0.09563625667624688 Acc: 26001
+(train)===> Epoch[390/700]): Loss: 0.09398584052336335 Acc: 26035
+(train)===> Epoch[391/700]): Loss: 0.0953360005390261 Acc: 25970
+./checkpoint/head_True/model_390.pth saved!
+
+(validation)===> Epoch[391/700]): Acc: 0.9212410501193318
+(validation)===> cor: 2316, num: 2514
+
+(train)===> Epoch[392/700]): Loss: 0.09284214557517954 Acc: 26022
+(train)===> Epoch[393/700]): Loss: 0.09768163269682122 Acc: 25948
+(train)===> Epoch[394/700]): Loss: 0.09533338158915707 Acc: 25995
+(train)===> Epoch[395/700]): Loss: 0.09136299725241438 Acc: 26035
+(train)===> Epoch[396/700]): Loss: 0.09812606209689965 Acc: 25940
+(train)===> Epoch[397/700]): Loss: 0.0935198283287522 Acc: 25978
+(train)===> Epoch[398/700]): Loss: 0.09408576981188856 Acc: 25983
+(train)===> Epoch[399/700]): Loss: 0.09050216628880084 Acc: 26020
+(train)===> Epoch[400/700]): Loss: 0.0947163293531912 Acc: 26003
+(train)===> Epoch[401/700]): Loss: 0.09877419546290785 Acc: 25915
+./checkpoint/head_True/model_400.pth saved!
+
+(validation)===> Epoch[401/700]): Acc: 0.92442322991249
+(validation)===> cor: 2324, num: 2514
+
+(train)===> Epoch[402/700]): Loss: 0.09726958979593672 Acc: 25948
+(train)===> Epoch[403/700]): Loss: 0.09322587874078687 Acc: 26000
+(train)===> Epoch[404/700]): Loss: 0.09429902032530939 Acc: 25994
+(train)===> Epoch[405/700]): Loss: 0.09509205759553828 Acc: 25981
+(train)===> Epoch[406/700]): Loss: 0.09561635369120824 Acc: 25975
+(train)===> Epoch[407/700]): Loss: 0.09209912771584727 Acc: 25997
+(train)===> Epoch[408/700]): Loss: 0.09224084471385581 Acc: 26008
+(train)===> Epoch[409/700]): Loss: 0.09237827058447938 Acc: 25997
+(train)===> Epoch[410/700]): Loss: 0.09033204198122524 Acc: 26033
+(train)===> Epoch[411/700]): Loss: 0.08979589699362692 Acc: 26078
+./checkpoint/head_True/model_410.pth saved!
+
+(validation)===> Epoch[411/700]): Acc: 0.9176610978520287
+(validation)===> cor: 2307, num: 2514
+
+(train)===> Epoch[412/700]): Loss: 0.09415768962707426 Acc: 25971
+(train)===> Epoch[413/700]): Loss: 0.09294342926555176 Acc: 25975
+(train)===> Epoch[414/700]): Loss: 0.09458246938176366 Acc: 25963
+(train)===> Epoch[415/700]): Loss: 0.09318486276810495 Acc: 26015
+(train)===> Epoch[416/700]): Loss: 0.09203571967798282 Acc: 26019
+(train)===> Epoch[417/700]): Loss: 0.09444160557920536 Acc: 25982
+(train)===> Epoch[418/700]): Loss: 0.09394680205821065 Acc: 25994
+(train)===> Epoch[419/700]): Loss: 0.09690032373768712 Acc: 25954
+(train)===> Epoch[420/700]): Loss: 0.09432804427660499 Acc: 25971
+(train)===> Epoch[421/700]): Loss: 0.0917844540481578 Acc: 25999
+./checkpoint/head_True/model_420.pth saved!
+
+(validation)===> Epoch[421/700]): Acc: 0.9220365950676214
+(validation)===> cor: 2318, num: 2514
+
+(train)===> Epoch[422/700]): Loss: 0.09487480901385216 Acc: 25962
+(train)===> Epoch[423/700]): Loss: 0.09176417851639192 Acc: 26036
+(train)===> Epoch[424/700]): Loss: 0.09757281689862597 Acc: 25942
+(train)===> Epoch[425/700]): Loss: 0.08913602445256903 Acc: 26048
+(train)===> Epoch[426/700]): Loss: 0.09260591403570137 Acc: 26001
+(train)===> Epoch[427/700]): Loss: 0.09341594496312725 Acc: 25990
+(train)===> Epoch[428/700]): Loss: 0.08832665236618129 Acc: 26035
+(train)===> Epoch[429/700]): Loss: 0.09013246125464197 Acc: 26053
+(train)===> Epoch[430/700]): Loss: 0.09036289975976233 Acc: 26021
+(train)===> Epoch[431/700]): Loss: 0.09226320854735484 Acc: 26009
+./checkpoint/head_True/model_430.pth saved!
+
+(validation)===> Epoch[431/700]): Acc: 0.9228321400159109
+(validation)===> cor: 2320, num: 2514
+
+(train)===> Epoch[432/700]): Loss: 0.0896684265410143 Acc: 26024
+(train)===> Epoch[433/700]): Loss: 0.09133309079887184 Acc: 26038
+(train)===> Epoch[434/700]): Loss: 0.09592189745548355 Acc: 25986
+(train)===> Epoch[435/700]): Loss: 0.0884329344072952 Acc: 26083
+(train)===> Epoch[436/700]): Loss: 0.09080550646643888 Acc: 26025
+(train)===> Epoch[437/700]): Loss: 0.09273720783073096 Acc: 25989
+(train)===> Epoch[438/700]): Loss: 0.09197437100669902 Acc: 26015
+(train)===> Epoch[439/700]): Loss: 0.08822693316279212 Acc: 26068
+(train)===> Epoch[440/700]): Loss: 0.08878235386644724 Acc: 26046
+(train)===> Epoch[441/700]): Loss: 0.08828179168375534 Acc: 26072
+./checkpoint/head_True/model_440.pth saved!
+
+(validation)===> Epoch[441/700]): Acc: 0.9196499602227526
+(validation)===> cor: 2312, num: 2514
+
+(train)===> Epoch[442/700]): Loss: 0.08782220386508455 Acc: 26084
+(train)===> Epoch[443/700]): Loss: 0.09060668771878551 Acc: 26026
+(train)===> Epoch[444/700]): Loss: 0.08980994867802437 Acc: 26038
+(train)===> Epoch[445/700]): Loss: 0.09341691171577877 Acc: 26009
+(train)===> Epoch[446/700]): Loss: 0.08447050911345633 Acc: 26107
+(train)===> Epoch[447/700]): Loss: 0.09236743940690847 Acc: 26024
+(train)===> Epoch[448/700]): Loss: 0.08611216818396167 Acc: 26093
+(train)===> Epoch[449/700]): Loss: 0.0910262793917518 Acc: 26018
+(train)===> Epoch[450/700]): Loss: 0.08862010862085423 Acc: 26029
+(train)===> Epoch[451/700]): Loss: 0.09056267093628152 Acc: 26017
+./checkpoint/head_True/model_450.pth saved!
+
+(validation)===> Epoch[451/700]): Acc: 0.9236276849642004
+(validation)===> cor: 2322, num: 2514
+
+(train)===> Epoch[452/700]): Loss: 0.08978666988424867 Acc: 26030
+(train)===> Epoch[453/700]): Loss: 0.08767028397829617 Acc: 26044
+(train)===> Epoch[454/700]): Loss: 0.09206935291061281 Acc: 26005
+(train)===> Epoch[455/700]): Loss: 0.08587957646989773 Acc: 26056
+(train)===> Epoch[456/700]): Loss: 0.0875851569759201 Acc: 26022
+(train)===> Epoch[457/700]): Loss: 0.08939210448476023 Acc: 26060
+(train)===> Epoch[458/700]): Loss: 0.08865707343103557 Acc: 26036
+(train)===> Epoch[459/700]): Loss: 0.08776359812018074 Acc: 26044
+(train)===> Epoch[460/700]): Loss: 0.08553149376834368 Acc: 26079
+(train)===> Epoch[461/700]): Loss: 0.08806123367716466 Acc: 26055
+./checkpoint/head_True/model_460.pth saved!
+
+(validation)===> Epoch[461/700]): Acc: 0.9200477326968973
+(validation)===> cor: 2313, num: 2514
+
+(train)===> Epoch[462/700]): Loss: 0.08779752167769107 Acc: 26051
+(train)===> Epoch[463/700]): Loss: 0.09087841883699929 Acc: 26047
+(train)===> Epoch[464/700]): Loss: 0.08678444583995397 Acc: 26068
+(train)===> Epoch[465/700]): Loss: 0.0900469480454037 Acc: 26023
+(train)===> Epoch[466/700]): Loss: 0.08906926855117504 Acc: 26036
+(train)===> Epoch[467/700]): Loss: 0.08483220887262015 Acc: 26081
+(train)===> Epoch[468/700]): Loss: 0.08816404510377901 Acc: 26050
+(train)===> Epoch[469/700]): Loss: 0.08678922961928358 Acc: 26056
+(train)===> Epoch[470/700]): Loss: 0.08685254308476942 Acc: 26069
+(train)===> Epoch[471/700]): Loss: 0.08591346807485872 Acc: 26079
+./checkpoint/head_True/model_470.pth saved!
+
+(validation)===> Epoch[471/700]): Acc: 0.9204455051710422
+(validation)===> cor: 2314, num: 2514
+
+(train)===> Epoch[472/700]): Loss: 0.08855899076935374 Acc: 26037
+(train)===> Epoch[473/700]): Loss: 0.08691811671307986 Acc: 26050
+(train)===> Epoch[474/700]): Loss: 0.08857563880632792 Acc: 26029
+(train)===> Epoch[475/700]): Loss: 0.08643485479844373 Acc: 26039
+(train)===> Epoch[476/700]): Loss: 0.08677705574665671 Acc: 26041
+(train)===> Epoch[477/700]): Loss: 0.08511290367860833 Acc: 26053
+(train)===> Epoch[478/700]): Loss: 0.08719102926375323 Acc: 26063
+(train)===> Epoch[479/700]): Loss: 0.08761982238605946 Acc: 26063
+(train)===> Epoch[480/700]): Loss: 0.08511003046882759 Acc: 26068
+(train)===> Epoch[481/700]): Loss: 0.08419405432050771 Acc: 26118
+./checkpoint/head_True/model_480.pth saved!
+
+(validation)===> Epoch[481/700]): Acc: 0.926412092283214
+(validation)===> cor: 2329, num: 2514
+
+(train)===> Epoch[482/700]): Loss: 0.08594765312606892 Acc: 26067
+(train)===> Epoch[483/700]): Loss: 0.08494958228203787 Acc: 26073
+(train)===> Epoch[484/700]): Loss: 0.08773094935081634 Acc: 26027
+(train)===> Epoch[485/700]): Loss: 0.08842148393339477 Acc: 26031
+(train)===> Epoch[486/700]): Loss: 0.08790877908512494 Acc: 26041
+(train)===> Epoch[487/700]): Loss: 0.0828374647811904 Acc: 26110
+(train)===> Epoch[488/700]): Loss: 0.08831453115420498 Acc: 26038
+(train)===> Epoch[489/700]): Loss: 0.0881178469757711 Acc: 26050
+(train)===> Epoch[490/700]): Loss: 0.08597049374142199 Acc: 26067
+(train)===> Epoch[491/700]): Loss: 0.08916580148988056 Acc: 26048
+./checkpoint/head_True/model_490.pth saved!
+
+(validation)===> Epoch[491/700]): Acc: 0.9236276849642004
+(validation)===> cor: 2322, num: 2514
+
+(train)===> Epoch[492/700]): Loss: 0.08765253880351007 Acc: 26059
+(train)===> Epoch[493/700]): Loss: 0.08413150329187052 Acc: 26099
+(train)===> Epoch[494/700]): Loss: 0.08773510616865547 Acc: 26065
+(train)===> Epoch[495/700]): Loss: 0.08341579681434926 Acc: 26079
+(train)===> Epoch[496/700]): Loss: 0.08760376938236004 Acc: 26070
+(train)===> Epoch[497/700]): Loss: 0.0842715714728535 Acc: 26085
+(train)===> Epoch[498/700]): Loss: 0.08593372539606055 Acc: 26089
+(train)===> Epoch[499/700]): Loss: 0.08340296422456546 Acc: 26094
+(train)===> Epoch[500/700]): Loss: 0.08818662177213864 Acc: 26056
+(train)===> Epoch[501/700]): Loss: 0.08599020623449335 Acc: 26066
+./checkpoint/head_True/model_500.pth saved!
+
+(validation)===> Epoch[501/700]): Acc: 0.9236276849642004
+(validation)===> cor: 2322, num: 2514
+
+(train)===> Epoch[502/700]): Loss: 0.08515475472023888 Acc: 26083
+(train)===> Epoch[503/700]): Loss: 0.09031681044385581 Acc: 26002
+(train)===> Epoch[504/700]): Loss: 0.08472517300662614 Acc: 26071
+(train)===> Epoch[505/700]): Loss: 0.08493081949686632 Acc: 26054
+(train)===> Epoch[506/700]): Loss: 0.08643982198195545 Acc: 26052
+(train)===> Epoch[507/700]): Loss: 0.08390791136594472 Acc: 26100
+(train)===> Epoch[508/700]): Loss: 0.08593608564840988 Acc: 26069
+(train)===> Epoch[509/700]): Loss: 0.08285228766483242 Acc: 26095
+(train)===> Epoch[510/700]): Loss: 0.08227139937905961 Acc: 26104
+(train)===> Epoch[511/700]): Loss: 0.08231847761796167 Acc: 26111
+./checkpoint/head_True/model_510.pth saved!
+
+(validation)===> Epoch[511/700]): Acc: 0.9236276849642004
+(validation)===> cor: 2322, num: 2514
+
+(train)===> Epoch[512/700]): Loss: 0.08314009540163503 Acc: 26125
+(train)===> Epoch[513/700]): Loss: 0.08297955519530806 Acc: 26099
+(train)===> Epoch[514/700]): Loss: 0.08417076486297777 Acc: 26072
+(train)===> Epoch[515/700]): Loss: 0.08578707590796539 Acc: 26063
+(train)===> Epoch[516/700]): Loss: 0.08705898917627453 Acc: 26061
+(train)===> Epoch[517/700]): Loss: 0.08579818523022176 Acc: 26068
+(train)===> Epoch[518/700]): Loss: 0.08627235844306598 Acc: 26072
+(train)===> Epoch[519/700]): Loss: 0.0823154424952074 Acc: 26122
+(train)===> Epoch[520/700]): Loss: 0.08433902355888749 Acc: 26079
+(train)===> Epoch[521/700]): Loss: 0.08266707600012538 Acc: 26107
+./checkpoint/head_True/model_520.pth saved!
+
+(validation)===> Epoch[521/700]): Acc: 0.9196499602227526
+(validation)===> cor: 2312, num: 2514
+
+(train)===> Epoch[522/700]): Loss: 0.08520620418469159 Acc: 26078
+(train)===> Epoch[523/700]): Loss: 0.08256801098779805 Acc: 26099
+(train)===> Epoch[524/700]): Loss: 0.08310996411222249 Acc: 26082
+(train)===> Epoch[525/700]): Loss: 0.08296561037851691 Acc: 26111
+(train)===> Epoch[526/700]): Loss: 0.0803537054469637 Acc: 26126
+(train)===> Epoch[527/700]): Loss: 0.0828237311777408 Acc: 26108
+(train)===> Epoch[528/700]): Loss: 0.08576770244728152 Acc: 26075
+(train)===> Epoch[529/700]): Loss: 0.08450331121922028 Acc: 26076
+(train)===> Epoch[530/700]): Loss: 0.08419525646549297 Acc: 26084
+(train)===> Epoch[531/700]): Loss: 0.08295808227914177 Acc: 26110
+./checkpoint/head_True/model_530.pth saved!
+
+(validation)===> Epoch[531/700]): Acc: 0.9232299124900557
+(validation)===> cor: 2321, num: 2514
+
+(train)===> Epoch[532/700]): Loss: 0.0800567462735074 Acc: 26136
+(train)===> Epoch[533/700]): Loss: 0.08394251312096017 Acc: 26072
+(train)===> Epoch[534/700]): Loss: 0.08166616611103047 Acc: 26113
+(train)===> Epoch[535/700]): Loss: 0.08718714158265298 Acc: 26056
+(train)===> Epoch[536/700]): Loss: 0.0850472227347275 Acc: 26077
+(train)===> Epoch[537/700]): Loss: 0.0825231245999841 Acc: 26099
+(train)===> Epoch[538/700]): Loss: 0.0826285784298691 Acc: 26124
+(train)===> Epoch[539/700]): Loss: 0.08353796642441787 Acc: 26114
+(train)===> Epoch[540/700]): Loss: 0.0814359423896904 Acc: 26093
+(train)===> Epoch[541/700]): Loss: 0.08064325531002249 Acc: 26093
+./checkpoint/head_True/model_540.pth saved!
+
+(validation)===> Epoch[541/700]): Acc: 0.9268098647573588
+(validation)===> cor: 2330, num: 2514
+
+(train)===> Epoch[542/700]): Loss: 0.08648443240185667 Acc: 26058
+(train)===> Epoch[543/700]): Loss: 0.0771233859215365 Acc: 26150
+(train)===> Epoch[544/700]): Loss: 0.08141959840188466 Acc: 26122
+(train)===> Epoch[545/700]): Loss: 0.08249422864913233 Acc: 26129
+(train)===> Epoch[546/700]): Loss: 0.08219070349667318 Acc: 26096
+(train)===> Epoch[547/700]): Loss: 0.08138446928822654 Acc: 26128
+(train)===> Epoch[548/700]): Loss: 0.08338902660838002 Acc: 26096
+(train)===> Epoch[549/700]): Loss: 0.08356527838139231 Acc: 26103
+(train)===> Epoch[550/700]): Loss: 0.08321224845450313 Acc: 26090
+(train)===> Epoch[551/700]): Loss: 0.08006936543114532 Acc: 26134
+./checkpoint/head_True/model_550.pth saved!
+
+(validation)===> Epoch[551/700]): Acc: 0.9220365950676214
+(validation)===> cor: 2318, num: 2514
+
+(train)===> Epoch[552/700]): Loss: 0.08088017285816966 Acc: 26100
+(train)===> Epoch[553/700]): Loss: 0.08079561604200174 Acc: 26138
+(train)===> Epoch[554/700]): Loss: 0.08243484541800336 Acc: 26108
+(train)===> Epoch[555/700]): Loss: 0.07871266574578938 Acc: 26137
+(train)===> Epoch[556/700]): Loss: 0.0797425195211966 Acc: 26138
+(train)===> Epoch[557/700]): Loss: 0.07891344505134361 Acc: 26142
+(train)===> Epoch[558/700]): Loss: 0.07939055460038423 Acc: 26142
+(train)===> Epoch[559/700]): Loss: 0.08043821760610345 Acc: 26135
+(train)===> Epoch[560/700]): Loss: 0.08163318282320671 Acc: 26096
+(train)===> Epoch[561/700]): Loss: 0.07755526292940818 Acc: 26158
+./checkpoint/head_True/model_560.pth saved!
+
+(validation)===> Epoch[561/700]): Acc: 0.9228321400159109
+(validation)===> cor: 2320, num: 2514
+
+(train)===> Epoch[562/700]): Loss: 0.07924161816011416 Acc: 26115
+(train)===> Epoch[563/700]): Loss: 0.08080660476572725 Acc: 26134
+(train)===> Epoch[564/700]): Loss: 0.08116253470723245 Acc: 26112
+(train)===> Epoch[565/700]): Loss: 0.07705899745429418 Acc: 26152
+(train)===> Epoch[566/700]): Loss: 0.07932210346405122 Acc: 26136
+(train)===> Epoch[567/700]): Loss: 0.07778610096859463 Acc: 26134
+(train)===> Epoch[568/700]): Loss: 0.0787264846570595 Acc: 26168
+(train)===> Epoch[569/700]): Loss: 0.07814319262993377 Acc: 26156
+(train)===> Epoch[570/700]): Loss: 0.08108687003733778 Acc: 26118
+(train)===> Epoch[571/700]): Loss: 0.08051351893410053 Acc: 26125
+./checkpoint/head_True/model_570.pth saved!
+
+(validation)===> Epoch[571/700]): Acc: 0.9287987271280828
+(validation)===> cor: 2335, num: 2514
+
+(train)===> Epoch[572/700]): Loss: 0.07601464213029151 Acc: 26181
+(train)===> Epoch[573/700]): Loss: 0.08154085520079753 Acc: 26123
+(train)===> Epoch[574/700]): Loss: 0.08174270707582988 Acc: 26104
+(train)===> Epoch[575/700]): Loss: 0.07937857017779365 Acc: 26127
+(train)===> Epoch[576/700]): Loss: 0.07904809298361003 Acc: 26148
+(train)===> Epoch[577/700]): Loss: 0.07775857119717039 Acc: 26147
+(train)===> Epoch[578/700]): Loss: 0.0808906185721665 Acc: 26097
+(train)===> Epoch[579/700]): Loss: 0.08310144892595075 Acc: 26091
+(train)===> Epoch[580/700]): Loss: 0.08175830550341377 Acc: 26120
+(train)===> Epoch[581/700]): Loss: 0.08051808691205292 Acc: 26119
+./checkpoint/head_True/model_580.pth saved!
+
+(validation)===> Epoch[581/700]): Acc: 0.9212410501193318
+(validation)===> cor: 2316, num: 2514
+
+(train)===> Epoch[582/700]): Loss: 0.08097222535218374 Acc: 26132
+(train)===> Epoch[583/700]): Loss: 0.07646043451542746 Acc: 26153
+(train)===> Epoch[584/700]): Loss: 0.07902925666819842 Acc: 26142
+(train)===> Epoch[585/700]): Loss: 0.08110661987179889 Acc: 26139
+(train)===> Epoch[586/700]): Loss: 0.0765739880688046 Acc: 26158
+(train)===> Epoch[587/700]): Loss: 0.07772022294822958 Acc: 26155
+(train)===> Epoch[588/700]): Loss: 0.07787133552434887 Acc: 26140
+(train)===> Epoch[589/700]): Loss: 0.0765221161732446 Acc: 26145
+(train)===> Epoch[590/700]): Loss: 0.08064437852486647 Acc: 26135
+(train)===> Epoch[591/700]): Loss: 0.07756129400738275 Acc: 26145
+./checkpoint/head_True/model_590.pth saved!
+
+(validation)===> Epoch[591/700]): Acc: 0.9307875894988067
+(validation)===> cor: 2340, num: 2514
+
+(train)===> Epoch[592/700]): Loss: 0.07591195039190086 Acc: 26175
+(train)===> Epoch[593/700]): Loss: 0.08002473897966511 Acc: 26117
+(train)===> Epoch[594/700]): Loss: 0.07636952634033638 Acc: 26182
+(train)===> Epoch[595/700]): Loss: 0.0787891306673263 Acc: 26142
+(train)===> Epoch[596/700]): Loss: 0.07876815994639581 Acc: 26142
+(train)===> Epoch[597/700]): Loss: 0.07741097216505434 Acc: 26150
+(train)===> Epoch[598/700]): Loss: 0.07919388203140604 Acc: 26127
+(train)===> Epoch[599/700]): Loss: 0.0776879860756303 Acc: 26130
+(train)===> Epoch[600/700]): Loss: 0.07472407643521767 Acc: 26174
+(train)===> Epoch[601/700]): Loss: 0.07768390572136556 Acc: 26160
+./checkpoint/head_True/model_600.pth saved!
+
+(validation)===> Epoch[601/700]): Acc: 0.9228321400159109
+(validation)===> cor: 2320, num: 2514
+
+(train)===> Epoch[602/700]): Loss: 0.0796139331118617 Acc: 26130
+(train)===> Epoch[603/700]): Loss: 0.07588043301908255 Acc: 26186
+(train)===> Epoch[604/700]): Loss: 0.07606677057646263 Acc: 26166
+(train)===> Epoch[605/700]): Loss: 0.07773212492333241 Acc: 26136
+(train)===> Epoch[606/700]): Loss: 0.07842712499081844 Acc: 26129
+(train)===> Epoch[607/700]): Loss: 0.08002521174643504 Acc: 26124
+(train)===> Epoch[608/700]): Loss: 0.07504297788929623 Acc: 26172
+(train)===> Epoch[609/700]): Loss: 0.07615691572737454 Acc: 26130
+(train)===> Epoch[610/700]): Loss: 0.07650841184119717 Acc: 26162
+(train)===> Epoch[611/700]): Loss: 0.07802804426075514 Acc: 26118
+./checkpoint/head_True/model_610.pth saved!
+
+(validation)===> Epoch[611/700]): Acc: 0.918854415274463
+(validation)===> cor: 2310, num: 2514
+
+(train)===> Epoch[612/700]): Loss: 0.07710121186436857 Acc: 26157
+(train)===> Epoch[613/700]): Loss: 0.07784698322202988 Acc: 26155
+(train)===> Epoch[614/700]): Loss: 0.078136003969985 Acc: 26144
+(train)===> Epoch[615/700]): Loss: 0.07605629933073305 Acc: 26178
+(train)===> Epoch[616/700]): Loss: 0.07936617537156068 Acc: 26134
+(train)===> Epoch[617/700]): Loss: 0.0759859516322967 Acc: 26156
+(train)===> Epoch[618/700]): Loss: 0.07839762285847279 Acc: 26145
+(train)===> Epoch[619/700]): Loss: 0.07732881326892019 Acc: 26146
+(train)===> Epoch[620/700]): Loss: 0.07690930565832417 Acc: 26155
+(train)===> Epoch[621/700]): Loss: 0.0729758738354291 Acc: 26199
+./checkpoint/head_True/model_620.pth saved!
+
+(validation)===> Epoch[621/700]): Acc: 0.9208432776451869
+(validation)===> cor: 2315, num: 2514
+
+(train)===> Epoch[622/700]): Loss: 0.0777700428481517 Acc: 26158
+(train)===> Epoch[623/700]): Loss: 0.0793759947655957 Acc: 26131
+(train)===> Epoch[624/700]): Loss: 0.07328667197234905 Acc: 26218
+(train)===> Epoch[625/700]): Loss: 0.07671415625746202 Acc: 26159
+(train)===> Epoch[626/700]): Loss: 0.07952644028247387 Acc: 26119
+(train)===> Epoch[627/700]): Loss: 0.07282134924181291 Acc: 26196
+(train)===> Epoch[628/700]): Loss: 0.07700786362634417 Acc: 26149
+(train)===> Epoch[629/700]): Loss: 0.07619811405567116 Acc: 26166
+(train)===> Epoch[630/700]): Loss: 0.07749841859865043 Acc: 26158
+(train)===> Epoch[631/700]): Loss: 0.07370433628209588 Acc: 26222
+./checkpoint/head_True/model_630.pth saved!
+
+(validation)===> Epoch[631/700]): Acc: 0.9196499602227526
+(validation)===> cor: 2312, num: 2514
+
+(train)===> Epoch[632/700]): Loss: 0.0739291958563968 Acc: 26210
+(train)===> Epoch[633/700]): Loss: 0.07517512291758333 Acc: 26149
+(train)===> Epoch[634/700]): Loss: 0.07715772968581969 Acc: 26153
+(train)===> Epoch[635/700]): Loss: 0.07701386599148893 Acc: 26141
+(train)===> Epoch[636/700]): Loss: 0.07941778938367854 Acc: 26137
+(train)===> Epoch[637/700]): Loss: 0.07711444835393132 Acc: 26188
+(train)===> Epoch[638/700]): Loss: 0.07541366744866135 Acc: 26187
+(train)===> Epoch[639/700]): Loss: 0.07626093526519043 Acc: 26176
+(train)===> Epoch[640/700]): Loss: 0.07175293194258371 Acc: 26212
+(train)===> Epoch[641/700]): Loss: 0.07619982839157169 Acc: 26172
+./checkpoint/head_True/model_640.pth saved!
+
+(validation)===> Epoch[641/700]): Acc: 0.9240254574383453
+(validation)===> cor: 2323, num: 2514
+
+(train)===> Epoch[642/700]): Loss: 0.0758090527383101 Acc: 26197
+(train)===> Epoch[643/700]): Loss: 0.0728671553991558 Acc: 26222
+(train)===> Epoch[644/700]): Loss: 0.07637635410062067 Acc: 26161
+(train)===> Epoch[645/700]): Loss: 0.07678801531631346 Acc: 26146
+(train)===> Epoch[646/700]): Loss: 0.07210929992978152 Acc: 26211
+(train)===> Epoch[647/700]): Loss: 0.07559504908909957 Acc: 26181
+(train)===> Epoch[648/700]): Loss: 0.07467813138361146 Acc: 26178
+(train)===> Epoch[649/700]): Loss: 0.07705048203353287 Acc: 26166
+(train)===> Epoch[650/700]): Loss: 0.07607359212498013 Acc: 26171
+(train)===> Epoch[651/700]): Loss: 0.07577202030658851 Acc: 26150
+./checkpoint/head_True/model_650.pth saved!
+
+(validation)===> Epoch[651/700]): Acc: 0.9180588703261734
+(validation)===> cor: 2308, num: 2514
+
+(train)===> Epoch[652/700]): Loss: 0.07335228946130726 Acc: 26191
+(train)===> Epoch[653/700]): Loss: 0.07284543724429757 Acc: 26198
+(train)===> Epoch[654/700]): Loss: 0.07462618686258803 Acc: 26183
+(train)===> Epoch[655/700]): Loss: 0.07676323638419279 Acc: 26154
+(train)===> Epoch[656/700]): Loss: 0.07373208335806519 Acc: 26166
+(train)===> Epoch[657/700]): Loss: 0.07290492108149223 Acc: 26216
+(train)===> Epoch[658/700]): Loss: 0.07311556047611736 Acc: 26201
+(train)===> Epoch[659/700]): Loss: 0.07494134225300789 Acc: 26187
+(train)===> Epoch[660/700]): Loss: 0.07649648116543147 Acc: 26174
+(train)===> Epoch[661/700]): Loss: 0.07257668276465631 Acc: 26200
+./checkpoint/head_True/model_660.pth saved!
+
+(validation)===> Epoch[661/700]): Acc: 0.9224343675417661
+(validation)===> cor: 2319, num: 2514
+
+(train)===> Epoch[662/700]): Loss: 0.07189127662707999 Acc: 26210
+(train)===> Epoch[663/700]): Loss: 0.0732710162562599 Acc: 26201
+(train)===> Epoch[664/700]): Loss: 0.06963555176350819 Acc: 26230
+(train)===> Epoch[665/700]): Loss: 0.07327051537062734 Acc: 26214
+(train)===> Epoch[666/700]): Loss: 0.07711109496993751 Acc: 26137
+(train)===> Epoch[667/700]): Loss: 0.07063984584324325 Acc: 26227
+(train)===> Epoch[668/700]): Loss: 0.07247105359615238 Acc: 26228
+(train)===> Epoch[669/700]): Loss: 0.07515528383985544 Acc: 26178
+(train)===> Epoch[670/700]): Loss: 0.07350586653817583 Acc: 26199
+(train)===> Epoch[671/700]): Loss: 0.07264198053787475 Acc: 26228
+./checkpoint/head_True/model_670.pth saved!
+
+(validation)===> Epoch[671/700]): Acc: 0.9216388225934765
+(validation)===> cor: 2317, num: 2514
+
+(train)===> Epoch[672/700]): Loss: 0.07176444453857572 Acc: 26218
+(train)===> Epoch[673/700]): Loss: 0.07243077642109573 Acc: 26183
+(train)===> Epoch[674/700]): Loss: 0.0709349210827551 Acc: 26217
+(train)===> Epoch[675/700]): Loss: 0.07530200476105588 Acc: 26209
+(train)===> Epoch[676/700]): Loss: 0.07477202155403874 Acc: 26179
+(train)===> Epoch[677/700]): Loss: 0.07165451185233583 Acc: 26203
+(train)===> Epoch[678/700]): Loss: 0.07225341743606004 Acc: 26224
+(train)===> Epoch[679/700]): Loss: 0.07296988589251129 Acc: 26201
+(train)===> Epoch[680/700]): Loss: 0.07248412817716603 Acc: 26203
+(train)===> Epoch[681/700]): Loss: 0.07401240540495817 Acc: 26203
+./checkpoint/head_True/model_680.pth saved!
+
+(validation)===> Epoch[681/700]): Acc: 0.926412092283214
+(validation)===> cor: 2329, num: 2514
+
+(train)===> Epoch[682/700]): Loss: 0.0726965027308255 Acc: 26211
+(train)===> Epoch[683/700]): Loss: 0.07475864034115093 Acc: 26184
+(train)===> Epoch[684/700]): Loss: 0.07227173352706953 Acc: 26209
+(train)===> Epoch[685/700]): Loss: 0.07217170057083849 Acc: 26188
+(train)===> Epoch[686/700]): Loss: 0.07156086464649217 Acc: 26239
+(train)===> Epoch[687/700]): Loss: 0.07338541630664382 Acc: 26210
+(train)===> Epoch[688/700]): Loss: 0.071628742311548 Acc: 26230
+(train)===> Epoch[689/700]): Loss: 0.07508862697499458 Acc: 26156
+(train)===> Epoch[690/700]): Loss: 0.07303980054807217 Acc: 26176
+(train)===> Epoch[691/700]): Loss: 0.07002465705765581 Acc: 26232
+./checkpoint/head_True/model_690.pth saved!
+
+(validation)===> Epoch[691/700]): Acc: 0.9160700079554495
+(validation)===> cor: 2303, num: 2514
+
+(train)===> Epoch[692/700]): Loss: 0.07097367871101426 Acc: 26233
+(train)===> Epoch[693/700]): Loss: 0.08045809119364629 Acc: 26110
+(train)===> Epoch[694/700]): Loss: 0.07165490711249421 Acc: 26225
+(train)===> Epoch[695/700]): Loss: 0.07022004367810211 Acc: 26231
+(train)===> Epoch[696/700]): Loss: 0.06960693770475383 Acc: 26245
+(train)===> Epoch[697/700]): Loss: 0.07390741828271585 Acc: 26198
+(train)===> Epoch[698/700]): Loss: 0.06877240133549213 Acc: 26238
+(train)===> Epoch[699/700]): Loss: 0.07351975101920064 Acc: 26210
+(train)===> Epoch[700/700]): Loss: 0.07421021551256583 Acc: 26178
