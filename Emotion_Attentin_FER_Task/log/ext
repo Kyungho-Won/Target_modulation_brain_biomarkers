@@ -1,0 +1,140 @@
+(validation)===> Epoch[1/700]): Acc: 0.6923076923076923
+(validation)===> cor: 684, num: 988
+(validation)===> Epoch[11/700]): Acc: 0.7449392712550608
+(validation)===> cor: 736, num: 988
+(validation)===> Epoch[21/700]): Acc: 0.7682186234817814
+(validation)===> cor: 759, num: 988
+(validation)===> Epoch[31/700]): Acc: 0.7682186234817814
+(validation)===> cor: 759, num: 988
+(validation)===> Epoch[41/700]): Acc: 0.7763157894736842
+(validation)===> cor: 767, num: 988
+(validation)===> Epoch[51/700]): Acc: 0.7813765182186235
+(validation)===> cor: 772, num: 988
+(validation)===> Epoch[61/700]): Acc: 0.7925101214574899
+(validation)===> cor: 783, num: 988
+(validation)===> Epoch[71/700]): Acc: 0.8016194331983806
+(validation)===> cor: 792, num: 988
+(validation)===> Epoch[81/700]): Acc: 0.7874493927125507
+(validation)===> cor: 778, num: 988
+(validation)===> Epoch[91/700]): Acc: 0.77834008097166
+(validation)===> cor: 769, num: 988
+(validation)===> Epoch[101/700]): Acc: 0.7823886639676113
+(validation)===> cor: 773, num: 988
+(validation)===> Epoch[111/700]): Acc: 0.7823886639676113
+(validation)===> cor: 773, num: 988
+(validation)===> Epoch[121/700]): Acc: 0.7945344129554656
+(validation)===> cor: 785, num: 988
+(validation)===> Epoch[131/700]): Acc: 0.7763157894736842
+(validation)===> cor: 767, num: 988
+(validation)===> Epoch[141/700]): Acc: 0.7864372469635628
+(validation)===> cor: 777, num: 988
+(validation)===> Epoch[151/700]): Acc: 0.7834008097165992
+(validation)===> cor: 774, num: 988
+(validation)===> Epoch[161/700]): Acc: 0.7935222672064778
+(validation)===> cor: 784, num: 988
+(validation)===> Epoch[171/700]): Acc: 0.7894736842105263
+(validation)===> cor: 780, num: 988
+(validation)===> Epoch[181/700]): Acc: 0.7955465587044535
+(validation)===> cor: 786, num: 988
+(validation)===> Epoch[191/700]): Acc: 0.8026315789473685
+(validation)===> cor: 793, num: 988
+(validation)===> Epoch[201/700]): Acc: 0.7884615384615384
+(validation)===> cor: 779, num: 988
+(validation)===> Epoch[211/700]): Acc: 0.7925101214574899
+(validation)===> cor: 783, num: 988
+(validation)===> Epoch[221/700]): Acc: 0.7732793522267206
+(validation)===> cor: 764, num: 988
+(validation)===> Epoch[231/700]): Acc: 0.7894736842105263
+(validation)===> cor: 780, num: 988
+(validation)===> Epoch[241/700]): Acc: 0.8026315789473685
+(validation)===> cor: 793, num: 988
+(validation)===> Epoch[251/700]): Acc: 0.7813765182186235
+(validation)===> cor: 772, num: 988
+(validation)===> Epoch[261/700]): Acc: 0.7894736842105263
+(validation)===> cor: 780, num: 988
+(validation)===> Epoch[271/700]): Acc: 0.791497975708502
+(validation)===> cor: 782, num: 988
+(validation)===> Epoch[281/700]): Acc: 0.770242914979757
+(validation)===> cor: 761, num: 988
+(validation)===> Epoch[291/700]): Acc: 0.7834008097165992
+(validation)===> cor: 774, num: 988
+(validation)===> Epoch[301/700]): Acc: 0.8097165991902834
+(validation)===> cor: 800, num: 988
+(validation)===> Epoch[311/700]): Acc: 0.7935222672064778
+(validation)===> cor: 784, num: 988
+(validation)===> Epoch[321/700]): Acc: 0.7884615384615384
+(validation)===> cor: 779, num: 988
+(validation)===> Epoch[331/700]): Acc: 0.7874493927125507
+(validation)===> cor: 778, num: 988
+(validation)===> Epoch[341/700]): Acc: 0.7763157894736842
+(validation)===> cor: 767, num: 988
+(validation)===> Epoch[351/700]): Acc: 0.771255060728745
+(validation)===> cor: 762, num: 988
+(validation)===> Epoch[361/700]): Acc: 0.7763157894736842
+(validation)===> cor: 767, num: 988
+(validation)===> Epoch[371/700]): Acc: 0.7834008097165992
+(validation)===> cor: 774, num: 988
+(validation)===> Epoch[381/700]): Acc: 0.7732793522267206
+(validation)===> cor: 764, num: 988
+(validation)===> Epoch[391/700]): Acc: 0.7925101214574899
+(validation)===> cor: 783, num: 988
+(validation)===> Epoch[401/700]): Acc: 0.7955465587044535
+(validation)===> cor: 786, num: 988
+(validation)===> Epoch[411/700]): Acc: 0.7844129554655871
+(validation)===> cor: 775, num: 988
+(validation)===> Epoch[421/700]): Acc: 0.7813765182186235
+(validation)===> cor: 772, num: 988
+(validation)===> Epoch[431/700]): Acc: 0.7975708502024291
+(validation)===> cor: 788, num: 988
+(validation)===> Epoch[441/700]): Acc: 0.7965587044534413
+(validation)===> cor: 787, num: 988
+(validation)===> Epoch[451/700]): Acc: 0.7995951417004049
+(validation)===> cor: 790, num: 988
+(validation)===> Epoch[461/700]): Acc: 0.7844129554655871
+(validation)===> cor: 775, num: 988
+(validation)===> Epoch[471/700]): Acc: 0.7874493927125507
+(validation)===> cor: 778, num: 988
+(validation)===> Epoch[481/700]): Acc: 0.7803643724696356
+(validation)===> cor: 771, num: 988
+(validation)===> Epoch[491/700]): Acc: 0.7844129554655871
+(validation)===> cor: 775, num: 988
+(validation)===> Epoch[501/700]): Acc: 0.7753036437246964
+(validation)===> cor: 766, num: 988
+(validation)===> Epoch[511/700]): Acc: 0.7904858299595142
+(validation)===> cor: 781, num: 988
+(validation)===> Epoch[521/700]): Acc: 0.7854251012145749
+(validation)===> cor: 776, num: 988
+(validation)===> Epoch[531/700]): Acc: 0.7854251012145749
+(validation)===> cor: 776, num: 988
+(validation)===> Epoch[541/700]): Acc: 0.7823886639676113
+(validation)===> cor: 773, num: 988
+(validation)===> Epoch[551/700]): Acc: 0.7844129554655871
+(validation)===> cor: 775, num: 988
+(validation)===> Epoch[561/700]): Acc: 0.7763157894736842
+(validation)===> cor: 767, num: 988
+(validation)===> Epoch[571/700]): Acc: 0.7834008097165992
+(validation)===> cor: 774, num: 988
+(validation)===> Epoch[581/700]): Acc: 0.7925101214574899
+(validation)===> cor: 783, num: 988
+(validation)===> Epoch[591/700]): Acc: 0.7945344129554656
+(validation)===> cor: 785, num: 988
+(validation)===> Epoch[601/700]): Acc: 0.7864372469635628
+(validation)===> cor: 777, num: 988
+(validation)===> Epoch[611/700]): Acc: 0.7682186234817814
+(validation)===> cor: 759, num: 988
+(validation)===> Epoch[621/700]): Acc: 0.7651821862348178
+(validation)===> cor: 756, num: 988
+(validation)===> Epoch[631/700]): Acc: 0.7823886639676113
+(validation)===> cor: 773, num: 988
+(validation)===> Epoch[641/700]): Acc: 0.771255060728745
+(validation)===> cor: 762, num: 988
+(validation)===> Epoch[651/700]): Acc: 0.7975708502024291
+(validation)===> cor: 788, num: 988
+(validation)===> Epoch[661/700]): Acc: 0.7955465587044535
+(validation)===> cor: 786, num: 988
+(validation)===> Epoch[671/700]): Acc: 0.7834008097165992
+(validation)===> cor: 774, num: 988
+(validation)===> Epoch[681/700]): Acc: 0.7692307692307693
+(validation)===> cor: 760, num: 988
+(validation)===> Epoch[691/700]): Acc: 0.7823886639676113
+(validation)===> cor: 773, num: 988

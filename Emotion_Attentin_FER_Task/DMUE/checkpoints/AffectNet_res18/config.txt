@@ -1,0 +1,39 @@
+BiasInCls,False
+T,1.2
+backbone,resnet18
+batch_size,72
+bnneck,True
+fc_num,2
+frozen_stages,-1
+gamma,1000
+horizontal_flip_p,0.5
+image_channel,3
+image_crop_size,(224, 224)
+label_path,/path/to/your/lb2.txt
+last_stride,2
+lmdb_f,/path/to/your/AffectNet_lmdb/
+lr1,[[6, 0.0001], [12, 5e-05], [20, 1e-05], [22, 1e-05], [25, 5e-05], [60, 1e-05]]
+lr2,[[4, 0.001], [8, 0.0005], [14, 0.0001], [22, 1e-05], [25, 5e-05], [60, 1e-05]]
+max_epoch,36
+normalize_mean,[0.5, 0.5, 0.5]
+normalize_std,[0.5, 0.5, 0.5]
+num_branches,9
+num_classes,8
+num_workers,4
+ori_shape,(256, 256)
+output_dir,./checkpoints/AffectNet_res18
+padding,0
+pooling_method,GAP
+pretrained,./pretrain/checkpoints/out_dir_res18/mv_epoch_17.pt
+pretrained_choice,msra
+ramp_a,6
+second_order_statics,mean
+snapshot_dir,./checkpoints/AffectNet_res18/snapshots
+start_epoch,0
+test_log,./checkpoints/AffectNet_res18/test_log.txt
+test_minibatch,16
+train_log,./checkpoints/AffectNet_res18/train_log.txt
+train_mode,sp_confidence
+use_dropout,True
+w,0.5
+weight_decay,0.0001
