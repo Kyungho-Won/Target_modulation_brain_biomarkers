@@ -27,13 +27,67 @@ For pre-processing and display scalp topography, MATLAB based EEGLAB (https://sc
 
 ### ■ Extract BioMarker VI Task
 
-#### It includes scripts MATLAB scripts and deep learning models to extract features and classify user intention from visual imagery (VI) task
+#### It includes MATLAB scripts and deep learning models to extract features and classify user intention from visual imagery (VI) task
 
 #### - Structure
 ```
 ./EEGNet-maser
 ./MATLAB
 ./MultiRocket-main
+```
+
+### ■ Extraction Biomarker of Motor Imagery Task
+>This is the AI-based Brain Signal Processing Algorithm - Motor Function project. They consist of EEG signal classification and dataset loading code. It is the Convolutional Neural Network (CNN)-Long Short-Term Memory (LSTM) models for signal processing and classification on motor imagery, written in PyTorch and Tensorflow.  It also contains code for loading multiple datasets written in MATLAB.
+
+This is a schematic diagram of the proposed CNN-LSTM model. We propose a new model by referring to the following paper: Zhang, Ruilong, et al. "Hybrid deep neural network using transfer learning for EEG motor imagery decoding." Biomedical Signal Processing and Control 63 (2021): 102144.
+![image_readme](https://user-images.githubusercontent.com/28053807/180915694-d2f59e7b-5b17-4e3e-8351-f136261fe971.png)
+
+#### - Structure
+```
+./CNN+LSTM-main
+```
+
+#### Requirements
+```
++ Python == 3.9.7
++ torch == 1.10.1 
++ scikit-learn >= 1.0.2
++ MATLAB >= MATLAB 9.5 R2018a
++ EEGLAB 2021.1 ver (https://eeglab.org/)
++ FieldTrip Toolbox (www.fieldtriptoolbox.org)
+```
+
+#### Usage
++ CNN+LSTM-main : torch code of CNN-LSTM architecture
++ MATLAB        : MATLAB code of dataset load
+
+## DATASET
+|Data Name(Release Year)|Resource|Num. of Subject|Device(Num. of Electrode)|Imagery Classes|Cue Display|
+|-----------------------|--------|---------------|-------------------------|---------------|-----------|
+|Xiaoli(2020)[1]|IEEE DataPort|6|Neuroscan SynAmps2(122)|LH, RH|Arrow|
+|Lee(2019)[2]|Deep BCI, MOABB, Gigascience|54|BrainProduct BrainAmp(62)|LH, RH|Arrow|
+|Kim(2018)[3]|Deep BCI|12|BrainProduct BrainAmp(30)|LH, RH, RF|Arrow|
+|Murat(2018)[4]|Scientific data|13|Neurofax EEG-1200(19)|LH, RH, LF, RF, EF|Object|
+|Cho(2017)[5]|Deep BCI, MOABB, Gigascienece|52|Biosemi(64)|LH, RH|Text|
+|Shin(2016)[6]|MOABB|29|BrainProduct BrainAmp(30)|LH, RH|Arrow|
+|Weibo(2014)[7]|MOABB|10|Neuroscan SynAmps2(64)|LH, RH, F, LHRF, RHLF|Text|
+|Ahn(2013)[8]|Deep BCI|10|Biosemi(19)|LH, RH|Arrow|
+
+L: left/ R: right/ H: hand/ F: feet  
+
+### ■ Emotion Attention FER Task
+
+#### It includes scripts for decoding emotion & attention during FER Task through AI models
+
+#### - Structure
+```
+./DMUE
+dataloader.py
+deep_face_crop.py
+face_recog_crop.py
+model.py
+train.ipynb
+train.py
 ```
 
 ## Acknowledgements
